@@ -1,0 +1,68 @@
+[
+      {
+        "img": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+        "product_name": "Homemade Chocolate Chip Cookies",
+        "price": 12.99,
+        "details": "Delicious homemade chocolate chip cookies baked with love.",
+        "category": "Homemade Food"
+      },
+      {
+        "img": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+        "product_name": "Grandma's Secret Apple Pie",
+        "price": 24.99,
+        "details": "A classic homemade apple pie with a secret family recipe.",
+        "category": "popular"
+      },
+      {
+        "img": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+        "product_name": "Savory Chicken Pot Pie",
+        "price": 18.99,
+        "details": "A comforting homemade chicken pot pie with flaky crust.",
+        "category": "popular"
+      },
+      {
+        "img": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg",
+        "product_name": "Spicy Mango Pickles",
+        "price": 8.99,
+        "details": "Handcrafted spicy mango pickles with a perfect blend of flavors.",
+        "category": "Pickles"
+      },
+      {
+        "img": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg",
+        "product_name": "Garlic Dill Pickles",
+        "price": 10.99,
+        "details": "Crunchy dill pickles infused with garlic for a delightful twist.",
+        "category": "popular"
+      },
+      {
+        "img": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg",
+        "product_name": "Sweet and Tangy Bread and Butter Pickles",
+        "price": 9.99,
+        "details": "Homemade bread and butter pickles with a sweet and tangy flavor.",
+        "category": "popular"
+      },
+      {
+        "img": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "product_name": "Handmade Wooden Coasters",
+        "price": 19.99,
+        "details": "Set of four handcrafted wooden coasters for a rustic touch to your home.",
+        "category": "Handcrafted Products"
+      },
+      {
+        "img": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "product_name": "Quilted Throw Pillow Cover",
+        "price": 29.99,
+        "details": "Hand-stitched quilted throw pillow cover in various patterns.",
+        "category": "popular"
+      },
+      {
+        "img": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "product_name": "Handwoven Basket",
+        "price": 34.99,
+        "details": "A beautifully handwoven basket for stylish storage solutions.",
+        "category": "popular"
+      }
+     
+]
+
+  

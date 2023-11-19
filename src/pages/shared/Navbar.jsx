@@ -31,7 +31,7 @@ const Navbar = () => {
       <li tabIndex={0} className="text-base font-semibold">
         <details>
           <summary>Category</summary>
-          <ul className="p-2 w-48">
+          <ul className="p-2 w-48 text-black">
             <li>
               <a>Home Made Food</a>
             </li>
@@ -53,7 +53,8 @@ const Navbar = () => {
     </>
   );
   return (
-    <div className="navbar bg-base-100">
+   <div>
+       <div className="navbar bg-black z-10 text-white bg-opacity-50 fixed max-w-screen-xl">
       <div className="navbar-start">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -95,8 +96,8 @@ const Navbar = () => {
                 <img src={user?.photoURL}/>
               </div>
             </div>
-            <h1 className="ml-1 font-semibold text-cyan-600">{user.displayName}</h1>
-            <h1 className="btn ml-2 text-base font-semibold" onClick={handleLogOut}>LogOut</h1>
+            <h1 className="ml-1 font-semibold ">{user.displayName}</h1>
+            <h1 className="btn bg-emerald-400 ml-2 text-base font-semibold" onClick={handleLogOut}>LogOut</h1>
             
           </div>
         ) : (
@@ -104,6 +105,7 @@ const Navbar = () => {
         )}
       </div>
     </div>
+   </div>
   );
 };
 

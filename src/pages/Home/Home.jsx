@@ -1,9 +1,12 @@
 import React from 'react';
+import Slider from './slider/Slider';
+import PopularProduct from './Product/PopularProduct';
 
 const Home = () => {
     return (
         <div>
-            <h1>I am Home</h1>
+            <Slider></Slider>
+            <PopularProduct></PopularProduct>
         </div>
     );
 };
